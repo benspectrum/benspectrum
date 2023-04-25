@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Beniamin!
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Swift and Kotlin
 - 📫 How to reach me ig @benspectrum
